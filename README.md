@@ -1,0 +1,2 @@
+# golang_para_book
+Go並行プログラミング実務ガイドの写経
